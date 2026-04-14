@@ -73,7 +73,8 @@ This project builds a fully functional mini enterprise SOC environment from scra
 | Phase | Title | Status |
 |---|---|---|
 | **Phase 1** | Environment Setup — Windows 11 VM | ✅ Complete |
-| **Phase 2** | Wazuh Agent Deployment | 🔜 Coming Soon |
+| **Phase 2** | Wazuh Agent Deployment | ✅ Complete |
+| **Phase 2.1** | Deploy Suricata IDS/IPS and Integrate with Wazuh | ✅ Complete |
 | **Phase 3** | Attack Scenario 1 — Nmap Reconnaissance | 🔜 Coming Soon |
 | **Phase 4** | Attack Scenario 2 — SSH Brute Force | 🔜 Coming Soon |
 | **Phase 5** | Attack Scenario 3 — Metasploit Exploitation | 🔜 Coming Soon |
