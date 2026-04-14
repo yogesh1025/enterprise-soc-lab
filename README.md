@@ -97,8 +97,7 @@ This project builds a fully functional mini enterprise SOC environment from scra
 ---
 
 ## 👤 Author
-**Yogesh Khandelwal**
-Cybersecurity enthusiast | Aspiring SOC Analyst
+**Yogesh Khandelwal** | Cybersecurity enthusiast
 - LinkedIn: [https://www.linkedin.com/in/yogesh1025/]
 
 
