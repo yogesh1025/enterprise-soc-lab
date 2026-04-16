@@ -26,7 +26,7 @@ This project builds a fully functional mini enterprise SOC environment from scra
 ┌─────────────────────┐         ┌─────────────────────┐
 │   Kali Linux        │─attacks▶│   Windows 11 Pro VM │
 │   (Attacker)        │         │   (Target/Victim)   │
-│   MacBook           │         │   UTM on MacBook     │
+│   MacBook           │         │   UTM on MacBook    │
 └────────┬────────────┘         └──────────┬──────────┘
          │                                 │
          │ Wazuh Agent                     │ Wazuh Agent
